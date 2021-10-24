@@ -1,0 +1,2 @@
+from .user_repository_interface import UserRepositoryInterface
+from .consulta_api_interface import ConsultaAPIInterface

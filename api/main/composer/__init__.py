@@ -1,0 +1,2 @@
+from .register_user_composite import register_user_composer
+from .consulta_api_composite import consulta_api_composer

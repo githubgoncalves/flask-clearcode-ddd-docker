@@ -1,0 +1,2 @@
+from .register_user_controller import RegisterUserController
+from .consulta_api_controller import ConsultaAPIController
